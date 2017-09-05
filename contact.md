@@ -21,8 +21,8 @@ permalink: /contact/
             </li>
             
         </ul>
-        <input type="submit" value="Send" id="submit"/>
-         <input type="hidden" name='redirect_to' <a href="mailto:corcuijpers@ziggo.nl">corcuijpers@ziggo.nl</a>
+        
+        <a href="mailto:corcuijpers@ziggo.nl">corcuijpers@ziggo.nl</a>
 </form>
 
 This form is setup using [SimpleForm](https://getsimpleform.com){: target="_blank" rel="nofollow"}. You can get your own API token or use other forms deleting this whole form. But remember, php forms will not work on Jekyll.
@@ -42,7 +42,6 @@ The styles for the form is included in this page. I haven't included it in the m
     transition-duration: 0.3s;
     width: 12em;
 }
-
 .contact-input:focus {
     outline:none;
     border-bottom: 1px solid {{site.color-1}};
@@ -52,8 +51,7 @@ The styles for the form is included in this page. I haven't included it in the m
     display: block;
 }
 
-ul.contact-ul {
-    margin: 0;
+ul.contact-ul {    margin: 0;
     padding: 10px;
 }
 
@@ -62,8 +60,7 @@ ul.contact-ul {
     background-color: {{site.color-1}};
     padding: 5px 15px;
     color: #eee;
-    opacity: 0.8;
-}
+    opacity: 0.8;}
 
 #submit:hover {
     opacity: 1;
@@ -72,8 +69,7 @@ ul.contact-ul {
 
 
 #contact-form {
-    border: 1px solid #aaa;
-    display: inline-flex;
+    border: 1px solid #aaa;    display: inline-flex;
     margin-bottom: 1em;
 }
 
