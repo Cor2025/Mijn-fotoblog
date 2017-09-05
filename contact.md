@@ -22,7 +22,7 @@ permalink: /contact/
             
         </ul>
         <input type="submit" value="Send" id="submit"/>
-        <a href="mailto:corcuijpers@ziggo.nl">corcuijpers@ziggo.nl</a>
+         <input type="hidden" name='redirect_to' <a href="mailto:corcuijpers@ziggo.nl">corcuijpers@ziggo.nl</a>
 </form>
 
 This form is setup using [SimpleForm](https://getsimpleform.com){: target="_blank" rel="nofollow"}. You can get your own API token or use other forms deleting this whole form. But remember, php forms will not work on Jekyll.
