@@ -22,7 +22,7 @@ permalink: /contact/
             
         </ul>
         <input type="submit" value="Send" id="submit"/>
-        <input type="hidden" name='redirect_to' value="http://blog.webjeda.com/thank-you/" /> 
+        <input type="hidden" name='redirect_to' value="" /> 
        
 </form>
 
@@ -42,8 +42,7 @@ The styles for the form is included in this page. I haven't included it in the m
     border-bottom: 1px solid #eee;
     transition-duration: 0.3s;
     width: 12em;
-}
-.contact-input:focus {
+}.contact-input:focus {
     outline:none;
     border-bottom: 1px solid {{site.color-1}};
 }
