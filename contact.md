@@ -22,7 +22,7 @@ permalink: /contact/
             
         </ul>
         <input type="submit" value="Send" id="submit"/>
-        <input type="hidden" name='redirect_to' value="" /> 
+        <input type="hidden" name='redirect_to' value="mailto:corcuijpers@ziggo.nl" /> 
        
 </form>
 
