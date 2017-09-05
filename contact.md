@@ -22,7 +22,7 @@ permalink: /contact/
             
         </ul>
         <input type="submit" value="Send" id="submit"/>
-        <input type="hidden" name='redirect_to' value="mailto:corcuijpers@ziggo.nl" /> 
+        <input type="hidden" name='redirect_to' value="http://corcuijpers.nl" /> 
        
 </form>
 
@@ -42,8 +42,7 @@ The styles for the form is included in this page. I haven't included it in the m
     border-bottom: 1px solid #eee;
     transition-duration: 0.3s;
     width: 12em;
-}.contact-input:focus {
-    outline:none;
+}.contact-input:focus {    outline:none;
     border-bottom: 1px solid {{site.color-1}};
 }
 
@@ -52,8 +51,7 @@ The styles for the form is included in this page. I haven't included it in the m
 }
 
 ul.contact-ul {    margin: 0;
-    padding: 10px;
-}
+    padding: 10px;}
 
 #submit {
     border:none;
@@ -62,8 +60,7 @@ ul.contact-ul {    margin: 0;
     color: #eee;
     opacity: 0.8;}
 
-#submit:hover {
-    opacity: 1;
+#submit:hover {    opacity: 1;
     cursor: pointer;
 }
 
@@ -72,5 +69,4 @@ ul.contact-ul {    margin: 0;
     border: 1px solid #aaa;    display: inline-flex;
     margin-bottom: 1em;
 }
-
 </style>
