@@ -11,7 +11,7 @@ title: Onderweg gezien 1
 
 **Gezien in Arnhem op 20 mei 2017 I**
 
-![](/thunder/img/IMGP8070.jpg-2)
+![](/thunder/img/IMGP8073.jpg-2)
 
 **Gezien in Arnhem op 20 mei 2017 II**
 
