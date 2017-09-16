@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Onderweg gezien 1
@@ -19,4 +20,7 @@ title: Onderweg gezien 1
 
 **Gezien in Arnhem op 20 mei 2017 III**
 
+![](/thunder/img/Portret in winkeldeur Roermond(2).jpg)
 
+**Portret op winkeldeur in Roermond**
+**Gezien op 25 oktober 2014**
