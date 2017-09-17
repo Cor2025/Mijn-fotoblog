@@ -59,4 +59,4 @@ prose:
     - /_layouts
     - /_includes
     
-gems: [jekyll-seo-tag]
+gems: jekyll-seo-tag
