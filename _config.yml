@@ -30,9 +30,6 @@ author-about: 'John Doe should be described in a very few words!'
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 sass:
     style: compressed
 
