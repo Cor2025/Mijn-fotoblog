@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -31,6 +32,7 @@ author-about: 'John Doe should be described in a very few words!'
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 sass:
     style: compressed
 
