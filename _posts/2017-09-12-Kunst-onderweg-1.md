@@ -2,11 +2,11 @@
 layout: post
 title:  Kunst onderweg I
 ---
-![](/thunder/img/IMGP4398.jpg-2)
+![](/Mijn-fotoblog/img/IMGP4398.jpg-2)
 
 **Gezien in Eindhoven**
 
-![](/thunder/img/IMGP8070.jpg-2)
+![](/Mijn-fotoblog/img/IMGP8070.jpg-2)
 
 **Gezien in Arnhem op 20 mei 2017 I**
 
