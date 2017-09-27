@@ -10,15 +10,15 @@ title:  Kunst onderweg I
 
 **Gezien in Arnhem op 20 mei 2017 I**
 
-![](/thunder/img/IMGP8073.jpg-2)
+![](/Mijn-fotoblog/img/IMGP8073.jpg-2)
 
 **Gezien in Arnhem op 20 mei 2017 II**
 
-![](/thunder/img/IMGP8082.jpg-2)
+![](/Mijn-fotoblog/img/IMGP8082.jpg-2)
 
 **Gezien in Arnhem op 20 mei 2017 III**
 
-![](/thunder/img/Vrouw.jpg)
+![](/Mijn-fotoblog/img/Vrouw.jpg)
 
 **Portret op winkeldeur in Roermond.**
 **Gezien op 25 oktober 2014**
