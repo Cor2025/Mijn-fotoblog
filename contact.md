@@ -13,7 +13,7 @@ permalink: /contact/
             </li>
             <li class="contact-li">
                 <label class="contact-label" for="email">Email:</label>
-                <input type="email" placeholder="corcuijpers@ziggo.nl" id="email" class="contact-input" name="email" tabindex="2"/>
+                <input type="email" placeholder="Your email" id="email" class="contact-input" name="email" tabindex="2"/>
             </li>
             <li class="contact-li">
                 <label class="contact-label" for="message">Message:</label>
@@ -22,7 +22,7 @@ permalink: /contact/
             
         </ul>
         <input type="submit" value="Send" id="submit"/>
-        <input type="hidden" name='redirect_to' value="https://github.com/Cor2025/thunder" /> 
+        <input type="hidden" name='redirect_to' value="" /> 
        
 </form>
 
