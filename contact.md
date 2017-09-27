@@ -22,7 +22,7 @@ permalink: /contact/
             
         </ul>
         <input type="submit" value="Send" id="submit"/>
-        <input type="hidden" name='redirect_to' value="http://corcuijpers.nl" /> 
+        <input type="hidden" name='redirect_to' value="github.com/Cor2025/thunder" /> 
        
 </form>
 
