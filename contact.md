@@ -13,11 +13,11 @@ permalink: /contact/
             </li>
             <li class="contact-li">
                 <label class="contact-label" for="email">Email:</label>
-                <input type="email" placeholder="corcuijpers@ziggo.nl" id="email" class="contact-input" name="email" tabindex="2"/>
+                <input type="email" placeholder="corcuijper@yahoo.com" id="email" class="contact-input" name="email" tabindex="2"/>
             </li>
             <li class="contact-li">
                 <label class="contact-label" for="message">Message:</label>
-                <textarea class="contact-textarea" placeholder="Your message" class="contact-input" rows="4" id="message" name="message" tabindex="3"></textarea>
+                <textarea class="contact-textarea" placeholder="Your message" class="contact-input" rows="8" id="message" name="message" tabindex="3"></textarea>
             </li>
             
         </ul>
