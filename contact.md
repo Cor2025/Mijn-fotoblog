@@ -17,7 +17,7 @@ permalink: /contact/
             </li>
             <li class="contact-li">
                 <label class="contact-label" for="message">Message:</label>
-                <textarea class="contact-textarea" placeholder="Message:" class="contact-input" rows="8" id="message" name="message" tabindex="3"></textarea>
+                <textarea class="contact-textarea" placeholder="Your message" class="contact-input" rows="8" id="message" name="message" tabindex="3"></textarea>
             </li>
             
         </ul>
