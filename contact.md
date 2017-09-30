@@ -22,7 +22,7 @@ permalink: /contact/
             
         </ul>
         <input type="submit" value="Send" id="submit"/>
-        <input type="hidden" name='redirect_to' value="https://cor2025.github.io/Mijn-fotoblog" /> 
+        
        
 </form>
 
