@@ -1,4 +1,4 @@
- Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,12 +7,12 @@
 
 # Site settings
 title: Mijn-fotoblog
-email: Cor_20@yahoo.com
+email: cor_20s@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
   Thunder is a lightning fast responsive theme based on default Jekyll theme. It is minimal and free from JavaScript. It has a css file of size 5kb. 
-url: # the base hostname & protocol for your site
+url:  # the base hostname & protocol for your site
 
-baseurl: '/Mijn-fotoblog/'
+baseurl: '/thunder'
 permalink: /:title/
 
 analytics: UA-83979019-1
@@ -29,6 +29,9 @@ author-about: 'John Doe should be described in a very few words!'
 
 # Build settings
 markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 sass:
     style: compressed
 
@@ -48,7 +51,7 @@ compress_html:
   
   
 prose:
-  rooturl: 'http://corcuijpers.com'
+  rooturl: ''
   siteurl: 'http://prose.github.io/starter/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'images'
@@ -58,4 +61,4 @@ prose:
     - /_layouts
     - /_includes
     
-gems: [jekyll-seo-tag]
+
