@@ -48,7 +48,7 @@ compress_html:
   
   
 prose:
-  rooturl: ''
+  rooturl: 'http://corcuijpers.com'
   siteurl: 'http://prose.github.io/starter/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'images'
