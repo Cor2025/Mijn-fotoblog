@@ -6,7 +6,7 @@ title:  Kunst onderweg I
 
 **Gezien in Eindhoven**
 
-![](/Mijn-fotoblog/img/IMGP8070.jpg-2)
+![](/img/IMGP8070.jpg-2)
 
 **Gezien in Arnhem op 20 mei 2017 I**
 
