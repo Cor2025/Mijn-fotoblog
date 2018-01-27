@@ -18,5 +18,4 @@ die ik gefotografeerd heb.
 <br/>
 <span class="contacticon center">
 	<a href="mailto:Cor_20@yahoo.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
 	</span>
