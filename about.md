@@ -6,6 +6,7 @@ permalink: /about/
 
 <img class="col one right" src="/img/IMGP4608.jpg">
 
+
 <br/>
 Mijn naam is Cor Cuijpers
 Ik ben een amateur fotograaf die in het Zuiden van Nederland woont.
