@@ -3,8 +3,7 @@ layout: page
 title: about
 permalink: /about/
 ---
-![](/img/IMGP4608.jpg)
-
+![](/Mijn-fotoblog/img/IMGP4398.jpg-2)
 
 <br/>
 Mijn naam is Cor Cuijpers
