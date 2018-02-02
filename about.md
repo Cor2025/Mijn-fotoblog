@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-![](Mijn-fotoblog/img/IMGP4608.jpg)
+![](/img/IMGP4608.jpg)
 
 
 <br/>
