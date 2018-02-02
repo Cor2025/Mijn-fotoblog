@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/IMGP4608.jpg">
+![](/img/IMGP4608.jpg)
 
 
 <br/>
