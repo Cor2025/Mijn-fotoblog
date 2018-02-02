@@ -3,7 +3,6 @@ layout: page
 title: about
 permalink: /about/
 ---
-
 ![](/img/IMGP4608.jpg)
 
 
