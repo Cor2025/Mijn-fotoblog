@@ -15,6 +15,6 @@ die ik gefotografeerd heb.
 <br/>
 <hr/>
 <br/>
-<span>
-	<a href="mailto:Cor_20@yahoo.com"></a>
-	</span>
+
+<a href="mailto:Cor_20@yahoo.com"></a>
+	
