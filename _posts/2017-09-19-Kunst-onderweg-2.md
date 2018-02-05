@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Kunst onderweg 2
 ---
 ![](/Mijn-fotoblog/img/IMGP4398.jpg)
