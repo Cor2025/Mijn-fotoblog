@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: about
 permalink: /about/
@@ -6,6 +6,7 @@ permalink: /about/
 ![](/Mijn-fotoblog/img/IMGP4398.jpg-2)
 
 <br/>
+
 Mijn naam is Cor Cuijpers
 Ik ben een amateur fotograaf die in het Zuiden van Nederland woont.
 De blog toont foto's van graffiti en streetart en landschappen in de
