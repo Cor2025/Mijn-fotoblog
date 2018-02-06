@@ -1,4 +1,4 @@
-vooral ---
+ ---
 layout: page
 title: about
 permalink: /about/
