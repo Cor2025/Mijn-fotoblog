@@ -13,3 +13,7 @@ title: Kunst onderweg 2
 ![](/Mijn-fotoblog/img/IMGP8532.jpg)
 
 **Gezien in Venlo op 08-10-2017**
+
+![](/Mijn-fotoblog/img/IMGP8070-2.JPG)
+
+**Gezien in Arnhem op 20-05-2017**
