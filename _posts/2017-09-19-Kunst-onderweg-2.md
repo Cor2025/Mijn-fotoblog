@@ -17,3 +17,7 @@ title: Kunst onderweg 2
 ![](/Mijn-fotoblog/img/IMGP8070-3.jpg) 
 
 **Gezien in Arnhem op 20-05-2017**
+
+![](/Mijn-fotoblog/img/IMGP2946.jpg)
+
+**Gezien in Roermond op 14-07-2014**
